@@ -34,7 +34,7 @@ class WebpackAliyunOss {
 			accessKeyId,
 			accessKeySecret,
 			bucket,
-			endpoint: "oss-accelerate.aliyuncs.com"
+			endpoint: 'oss-accelerate.aliyuncs.com'
 		})
 
 		this.filesUploaded = []
